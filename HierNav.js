@@ -4,7 +4,7 @@
 Draw.loadPlugin(function(ui)
 {
 	// Adds resource for action
-	mxResources.parse('exploreFromHere=Explore from Here...');
+	mxResources.parse('exploreFromHere=Open Activity');
 	
 	// Max number of edges per page
 	var pageSize = 20;
